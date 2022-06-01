@@ -1,0 +1,23 @@
+table { 
+    width: 600px;
+    height: 500px;
+    border-collapse: collapse ;
+}
+table th {
+    text-align: left;
+    background-color:grey;
+
+}
+
+table td {
+    border: 1px solid ;
+    padding: 5px 10px;
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 10px;
+}
